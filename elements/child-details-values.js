@@ -1,0 +1,15 @@
+module.exports = {
+    first_name_value : ('First Name'),
+    last_name_value : ('Last Name'),
+    knownAs_value : ('init'),
+    house_number_value : ('666'),
+    street_name_value : ('Satan Ave'),
+    city_value : ('udontwantoknow'),
+    county_value : ('county'),
+    postcode_value : ('M1M1'),
+    start_date_value : ('11/11/2018'),
+    end_date_value : ('11/11/2020'),
+    school_field_value : ('school'),
+    allergies_field_value : ('something'),
+    notes_field_value : ('work'),
+}

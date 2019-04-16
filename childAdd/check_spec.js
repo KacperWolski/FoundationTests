@@ -1,4 +1,4 @@
-const child_details = require("../elements/child-details");
+const child_details = require("../elements/child-details-values");
 const login_settings = require("../elements/login");
 const login_help = require("../elements/loginhelp");
 describe('add a child', function () {
